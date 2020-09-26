@@ -1,0 +1,122 @@
+* {
+    padding: 0%;
+    margin: 0%;
+}
+header {
+    background-color: #deb9b4;
+    width: 80%;
+}
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+#left {
+background-color: white;
+text-align: center;
+font-weight: 300;
+font-size: 150%;
+line-height: 5;
+}
+a {
+    text-decoration: none;
+    color: #7f4d57;
+}
+#center {
+    background-color: #f3e6e3;
+    color: #7f4d57;
+}
+#right {
+    background-color: white;
+}
+footer {
+    background-color: #975055;
+}
+#company-name {
+    font-size: 180%;
+    font-weight: 300;
+    font-style: italic;
+    color: #774551;
+}
+#belgium {
+    font-size: 60%;
+    font-weight: 700;
+    font-style: normal;
+    color: #774551; 
+    line-height: 0;
+}
+#title {
+    font-size: 300%;
+    font-weight: 300;
+    font-style: normal;
+    color: white
+}
+.company {
+    display: table-cell;
+    width: 20%;
+    text-align: center;
+}
+.title {
+    display: table-cell;
+    width: 60%;
+    text-align: right;
+}
+#ruby-rb1 {
+    font-size: 300%;
+    font-weight: 600;
+    font-style: normal;
+    text-align: center;
+}
+#subtitle {
+    font-size: 150%;
+    font-weight: 300;
+    font-style: italic;
+    text-align: center;
+}
+.text {
+    margin: 2em;
+    font-size: 120%;
+    text-align: justify;
+    text-indent: 5%;
+    line-height: 1.5em;
+}
+span{
+    font-style: italic;
+    font-weight: 600;
+}
+.info{
+    font-weight: 600;
+    text-align: center;
+    word-spacing: 100px;
+    margin-top: 6em;
+    font-size: 120%;
+}
+.ref{
+    word-spacing: 0px;
+}
+
+footer {
+    font-size: 150%;
+    font-weight: 300;
+    color: #f3e6e3;
+    font-weight: 300;
+}
+#phone {
+    font-size: 100%;
+    font-weight: 600;
+    color: #f3e6e3;  
+}
+#contact
+{
+    display: table-cell;
+    text-align: left; 
+    font-style:italic;
+    font-weight: 600;
+}
+#name{
+    font-style:normal;
+    font-weight: 300;
+}
+#adress {
+    display: table-cell;
+    text-align: left;
+    padding-left: 60%;
+}
